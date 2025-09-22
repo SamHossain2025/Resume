@@ -60,10 +60,6 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 - Analyzed 300+ World Bank indicators to study global supply chain inflation’s impact on consumer inflation.
 - 🥇 Rotman Datathon 2025 Champion – 1st out of 187 teams (600+ participants).
 
-### [Hey Katy – Agentic AI Concierge](https://github.com/SamHossain2025/Hey-Katy-Snowbird-AI-Concierge) → [View Project](https://github.com/SamHossain2025/Hey-Katy-Snowbird-AI-Concierge)
-- Built an agentic AI chatbot MVP to help Canadian snowbirds manage travel support and insurance claims.
-- Developed as part of Fintech Innovation Challenge 2025 – Semi-Finalist.
-
 ### [Credit Risk Model for Fintech](https://github.com/SamHossain2025/Credit-Score-Risk-Model) → [View Project](https://github.com/SamHossain2025/Credit-Score-Risk-Model)
 - Built a risk scoring model and user segmentation tool for a fintech wellness platform.
 - Designed to improve repayment prediction and enable proactive customer engagement.
@@ -76,10 +72,9 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 - Developed Power BI and regression dashboards using SQL to analyze sales, pricing, and trends.
 - Delivered to various Toronto-based SMBs to support data-driven decision-making.
 
-### [GenAI Capstone – Blog + Demo](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/) → [View Project](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/)
-- Documented full build of Gemini-powered job matcher with RAG, prompt chaining, and embeddings.
-- Featured as part of Google × Kaggle GenAI 5-Day Intensive Course.
-
+### Hey Katy – Agentic AI Customer Service Chatbot + Ecosystem (Ongoing)
+- Built an agentic AI chatbot MVP to help Canadian snowbirds manage travel support and insurance claims.
+- 🥇 Pitch Developed as part of Fintech Innovation Challenge 2025 – Semi-Finalist.
 
 ---
 
