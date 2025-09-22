@@ -56,7 +56,7 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 - Built to streamline job discovery for graduates and professionals through semantic search and dashboarding.
 - [See my LinkedIn Blog on it](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/)
 
-### [Supply Chain Inflation Analysis] → [View Project](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)
+### Supply Chain Inflation Analysis → [View Project](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)
 - Analyzed 300+ World Bank indicators to study global supply chain inflation’s impact on consumer inflation.
 - 🥇 Rotman Datathon 2025 Champion – 1st out of 187 teams (600+ participants).
 
