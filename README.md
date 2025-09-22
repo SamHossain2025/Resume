@@ -73,10 +73,6 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 - Analyzed film budget, genre, and runtime data to build a regression model predicting financial returns.
 - Built an ROI prediction model for a ([Toronto-based Film company](https://level.film/)) – MMA Capstone Project.
 
-### Hey Katy – Agentic AI Customer Service Chatbot + Ecosystem (Ongoing)
-- Built an agentic AI chatbot MVP to help Canadian snowbirds manage travel support and insurance claims.
-- 🥇 Pitch Developed as part of Fintech Innovation Challenge 2025 – Semi-Finalist.
-
 ---
 
 ## 🛠️ Skills  
