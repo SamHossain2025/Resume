@@ -20,8 +20,8 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 ---
 
 ## 🧠 Certifications & Training  
-- CFA® Level 1 • Jun 2018
-- Google × Kaggle GenAI 5-Day Intensive • Apr 2025
+- **CFA® Level 1** • Jun 2018
+- **Google × Kaggle GenAI 5-Day Intensive Generative AI Course** • Apr 2025
 
 ---
 
@@ -75,11 +75,11 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 ---
 
 ## 🛠️ Skills  
-**GenAI & NLP:** Prompt Engineering, LLM APIs, RAG, TF-IDF, Embeddings, Agentic AI  
-**Languages:** Python, R, SQL, VBA  
-**Visualization:** Power BI, Tableau, Matplotlib, Excel (Pivot, Macros)  
-**Cloud & Tools:** Azure, AWS, GitHub  
-**Finance:** Financial Modeling, Credit & Investment Analysis, Dashboards
+- **GenAI & NLP:** Prompt Engineering, LLM APIs, RAG, TF-IDF, Embeddings, Agentic AI  
+- **Languages:** Python, R, SQL, VBA  
+- **Visualization:** Power BI, Tableau, Matplotlib, Excel (Pivot, Macros)  
+- **Cloud & Tools:** Azure, AWS, GitHub  
+- **Finance:** Financial Modeling, Credit & Investment Analysis, Dashboards
 
 ---
 
