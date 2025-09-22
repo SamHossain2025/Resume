@@ -73,12 +73,6 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 - Analyzed film budget, genre, and runtime data to build a regression model predicting financial returns.
 - Built an ROI prediction model for a ([Toronto-based Film company](https://level.film/)) – MMA Capstone Project.
 
-### Film Review Sentiment Analysis → [View Project](https://github.com/SamHossain2025/Film-Review-Sentiment-Analysis)
-- Applied TF-IDF, sentiment scoring, and NLP to analyze movie reviews from IMDb for audience sentiment.
-
-### Flight Data Analysis → [View Project](https://github.com/SamHossain2025/Flight-Data-Analysis)
-- Built dashboards and statistical models to analyze 10K+ flight records from North America.
-
 ### Hey Katy – Agentic AI Customer Service Chatbot + Ecosystem (Ongoing)
 - Built an agentic AI chatbot MVP to help Canadian snowbirds manage travel support and insurance claims.
 - 🥇 Pitch Developed as part of Fintech Innovation Challenge 2025 – Semi-Finalist.
@@ -95,7 +89,8 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 ---
 
 ## 🏆 Awards  
-- 🥇 **Rotman Datathon 2025 Champion** – 1st place out of 187 teams  
+- 🥇 **University of Toronto Rotman Datathon 2025 Champion** – 1st place out of 187 teams
+- 🎖️ Council on Business & Society (CoBS) Internationa Article Writing 2025 – 3rd Place
 - 🎖️ Fintech Innovation 2025 – Semi-Finalist
 
 ---
