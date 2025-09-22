@@ -15,7 +15,7 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 
 **BBA in Finance**  
 *University of Dhaka*  
-🗓️ 2011 – 2015 • Entrance Scholarship & Merit List
+2011 – 2015 • Entrance Scholarship & Merit List
 
 ---
 
