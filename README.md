@@ -51,26 +51,34 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 
 ## 🚀 Projects
 
-### [AI-Powered Job Search Engine (GenAI + RAG)](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine)  
-- Scrapes LinkedIn jobs → Gemini API → Semantic matching → Prioritized dashboard
+### [AI-Powered Job Search Engine (GenAI + RAG)](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine) → [View Project](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine)
+- Designed a personalized job search engine using Gemini API, RAG, and embeddings to match user profiles with LinkedIn jobs.
+- Built to streamline job discovery for graduates and professionals through semantic search and dashboarding.
 
-### 📊 [Supply Chain Inflation Analysis (Rotman Datathon ’25 Champion)](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)  
-- 300+ World Bank variables, CPI/PPI macro-analysis, FE/RE modeling for policy insights
+### [Supply Chain Inflation Analysis](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis) → [View Project](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)
+- Analyzed 300+ World Bank indicators to study global supply chain inflation’s impact on consumer inflation.
+- 🥇 Rotman Datathon 2025 Champion – 1st out of 187 teams (600+ participants).
 
-### 🧳️ [Hey Katy – Agentic AI Concierge](https://github.com/SamHossain2025/Hey-Katy-Snowbird-AI-Concierge)  
-- MVP chatbot to support Canadian snowbirds with insurance claims, built using Agentic AI concepts
+### [Hey Katy – Agentic AI Concierge](https://github.com/SamHossain2025/Hey-Katy-Snowbird-AI-Concierge) → [View Project](https://github.com/SamHossain2025/Hey-Katy-Snowbird-AI-Concierge)
+- Built an agentic AI chatbot MVP to help Canadian snowbirds manage travel support and insurance claims.
+- Developed as part of Fintech Innovation Challenge 2025 – Semi-Finalist.
 
-### 🤑 [Credit Risk Model for Fintech](https://github.com/SamHossain2025/Credit-Score-Risk-Model)  
-- Built financial health scoring and early warning system using segmentation and ML
+### [Credit Risk Model for Fintech](https://github.com/SamHossain2025/Credit-Score-Risk-Model) → [View Project](https://github.com/SamHossain2025/Credit-Score-Risk-Model)
+- Built a risk scoring model and user segmentation tool for a fintech wellness platform.
+- Designed to improve repayment prediction and enable proactive customer engagement.
 
-### 📈 [PEC Fresh Financial Sustainability Model](https://github.com/SamHossain2025/Food-Social-Enterprise-Financial-Analysis)  
-- Identified cost drivers and optimized branch decisions to reduce loss by $30K
+### [PEC Fresh Financial Sustainability Model](https://github.com/SamHossain2025/Food-Social-Enterprise-Financial-Analysis) → [View Project](https://github.com/SamHossain2025/Food-Social-Enterprise-Financial-Analysis)
+- Built a branch-level financial model to identify loss drivers and improve operational decisions.
+- Helped a rural food access nonprofit reduce annual loss by $30K.
 
-### 📊 [Financial Dashboarding for SMBs](https://github.com/SamHossain2025/Dashboard-Projects)  
-- Power BI, regression models, SQL-driven dashboards for sales and pricing optimization
+### [Financial Dashboarding for SMBs](https://github.com/SamHossain2025/Dashboard-Projects) → [View Project](https://github.com/SamHossain2025/Dashboard-Projects)
+- Developed Power BI and regression dashboards using SQL to analyze sales, pricing, and trends.
+- Delivered to various Toronto-based SMBs to support data-driven decision-making.
 
-### 🧱 [GenAI Capstone – Blog + Demo](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/)  
-- Capstone reflection + demo walkthrough using Gemini API, embeddings, prompt chaining
+### [GenAI Capstone – Blog + Demo](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/) → [View Project](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/)
+- Documented full build of Gemini-powered job matcher with RAG, prompt chaining, and embeddings.
+- Featured as part of Google × Kaggle GenAI 5-Day Intensive Course.
+
 
 ---
 
@@ -168,6 +176,31 @@ I build predictive models, dashboards, and GenAI-powered tools to solve business
 
 **🧳 Agentic AI Chatbot for Snowbirds**  
 - Building AI travel assistant for senior travelers (insurance + claims support) – *Fintech Innovation 2025 Semi-Finalist*
+
+---
+
+## 🚀 Projects
+
+### [AI-Powered Job Search Engine (GenAI + RAG)](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine)  
+- Scrapes LinkedIn jobs → Gemini API → Semantic matching → Prioritized dashboard
+
+### 📊 [Supply Chain Inflation Analysis (Rotman Datathon ’25 Champion)](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)  
+- 300+ World Bank variables, CPI/PPI macro-analysis, FE/RE modeling for policy insights
+
+### 🧳️ [Hey Katy – Agentic AI Concierge](https://github.com/SamHossain2025/Hey-Katy-Snowbird-AI-Concierge)  
+- MVP chatbot to support Canadian snowbirds with insurance claims, built using Agentic AI concepts
+
+### 🤑 [Credit Risk Model for Fintech](https://github.com/SamHossain2025/Credit-Score-Risk-Model)  
+- Built financial health scoring and early warning system using segmentation and ML
+
+### 📈 [PEC Fresh Financial Sustainability Model](https://github.com/SamHossain2025/Food-Social-Enterprise-Financial-Analysis)  
+- Identified cost drivers and optimized branch decisions to reduce loss by $30K
+
+### 📊 [Financial Dashboarding for SMBs](https://github.com/SamHossain2025/Dashboard-Projects)  
+- Power BI, regression models, SQL-driven dashboards for sales and pricing optimization
+
+### 🧱 [GenAI Capstone – Blog + Demo](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/)  
+- Capstone reflection + demo walkthrough using Gemini API, embeddings, prompt chaining
 
 ---
 
