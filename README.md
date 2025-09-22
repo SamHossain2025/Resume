@@ -4,9 +4,7 @@ Toronto, Ontario, Canada | hossain.sam@queensu.ca | [GitHub](https://github.com/
 ---
 
 ## 🌟 Summary  
-Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate from Queen’s University.  
-4+ years of data analysis experience across Canadian SMBs, backed by strong finance experience in credit & investments.  
-I build predictive models, dashboards, and GenAI-powered tools to solve business problems.
+Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate from Queen’s University. 4+ years of data analysis experience across Canadian SMBs, backed by strong finance experience in credit & investments. I build predictive models, dashboards, and GenAI-powered tools to solve business problems.
 
 ---
 
