@@ -51,7 +51,7 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 
 ## 🚀 Projects
 
-### [AI-Powered Job Search Engine (GenAI + RAG)](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine) → [View Project](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine)
+### [AI-Powered Job Search Engine (GenAI + RAG)](https://github.com/SamHossain2025/Job-Search-Engine) → [View Project on Kaggle](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine) | [on Github](https://github.com/SamHossain2025/Job-Search-Engine)
 - Designed a personalized job search engine using Gemini API, RAG, and embeddings to match user profiles with LinkedIn jobs.
 - Built to streamline job discovery for graduates and professionals through semantic search and dashboarding.
 
