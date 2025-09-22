@@ -63,7 +63,7 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 
 ### Credit Risk Model for Fintech → [View Project](https://github.com/SamHossain2025/Credit-Score-Risk-Model)
 - Built a credit risk model using real time app engagement, credit payments, and behavioral data to predict defaults and financial wellness.
-- Built a predictive model for a [Toronto-based Fintech company](myparachute.co) - Scotiabank Center for Analytics project.
+- Built for a [Toronto-based Fintech company](myparachute.co) - Scotiabank Center for Analytics project.
 
 ### Investment Portfolio Optimization → [View Project](https://github.com/SamHossain2025/Investment-Portfolio-Optimization)
 - Developed a multi-model stock ranking system using RollingOLS, PCA, and Random Forest on S&P500 fundamentals.
@@ -74,7 +74,7 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 - Built an ROI prediction model for a ([Toronto-based Film company](https://level.film/)) – MMA Capstone Project.
 
 ### Film Review Sentiment Analysis → [View Project](https://github.com/SamHossain2025/Film-Review-Sentiment-Analysis)
-- Applied TF-IDF, sentiment scoring, and NLP to analyze IMDb reviews and sentiment vs. ROI patterns.
+- Applied TF-IDF, sentiment scoring, and NLP to analyze movie reviews from IMDb for audience sentiment.
 
 ### Flight Data Analysis → [View Project](https://github.com/SamHossain2025/Flight-Data-Analysis)
 - Built dashboards and statistical models to analyze 10K+ flight records from North America.
