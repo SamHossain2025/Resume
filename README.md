@@ -9,7 +9,7 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 ---
 
 ## 🎓 Education  
-**Master of Management Analytics**  
+**Master of Management Analytics (MMA)**  
 *Smith School of Business, Queen’s University*  
 🗓️ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 
