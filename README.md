@@ -20,9 +20,8 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 ---
 
 ## 🧠 Certifications & Training  
-CFA® Level 1 • Jun 2018
-
-Google × Kaggle GenAI 5-Day Intensive • Apr 2025
+- CFA® Level 1 • Jun 2018
+- Google × Kaggle GenAI 5-Day Intensive • Apr 2025
 
 ---
 
