@@ -20,8 +20,8 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 ---
 
 ## 🧠 Certifications & Training  
-- **CFA® Level 1** • Jun 2018
-- **Google × Kaggle GenAI 5-Day Intensive Generative AI Course** • Apr 2025
+- **CFA® Level 1** – Jun 2018
+- **Google × Kaggle GenAI 5-Day Intensive Generative AI Course** – Apr 2025
 
 ---
 
@@ -51,7 +51,7 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 
 ## 🚀 Projects
 
-### 🔎 [AI-Powered Job Search Engine (GenAI + RAG)](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine)  
+### [AI-Powered Job Search Engine (GenAI + RAG)](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine)  
 - Scrapes LinkedIn jobs → Gemini API → Semantic matching → Prioritized dashboard
 
 ### 📊 [Supply Chain Inflation Analysis (Rotman Datathon ’25 Champion)](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)  
