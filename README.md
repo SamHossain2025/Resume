@@ -33,7 +33,7 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 *Jan 2025 – Jul 2025*  
 - Created multi-year financial dashboards and regression models to identify branch-level losses and optimize operations.
 
-**Freelance Data Consultant – Toronto SMBs**  
+**Data Consultant – Toronto SMBs**  
 *2023 – 2024*  
 - Delivered analytics tools (Python, Power BI, SQL) for predictive dashboards and dynamic pricing models.  
 
