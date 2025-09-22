@@ -1,6 +1,6 @@
 # 👋 Sam Hossain – Data Scientist | AI/ML × Finance  
 📍 Toronto, Ontario, Canada  
-📧 hossain.sam@queensu.ca | [LinkedIn](https://www.linkedin.com/in/hossainsam) | [Portfolio](https://hossainsam.ca) | [GitHub](https://github.com/SamHossain2025)
+📧 hossain.sam@queensu.ca | [GitHub](https://github.com/SamHossain2025) | [LinkedIn](https://www.linkedin.com/in/hossainsam)
 
 ---
 
