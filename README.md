@@ -65,8 +65,8 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 - Built a predictive model for a Toronto-based [Fintech company](myparachute.co) - Scotiabank Center for Analytics project
 
 ### PEC Fresh Financial Sustainability Model → [View Project](https://github.com/SamHossain2025/Food-Social-Enterprise-Financial-Analysis)
-- Built a branch-level financial model to identify loss drivers and improve operational decisions.
-- Helped a rural food access nonprofit reduce annual loss by $30K.
+- Built a multi-year financial dashboard using regression models to help a local social enterprise identify loss-driving branches and restructure its operations. 
+- Built for a community food access program in Picton, Ontario - [PEC Fresh Good Food Market](https://pelc.ca/food-market/). Helped it reduce annual loss by $30K.
 
 ### Hey Katy – Agentic AI Customer Service Chatbot + Ecosystem (Ongoing)
 - Built an agentic AI chatbot MVP to help Canadian snowbirds manage travel support and insurance claims.
