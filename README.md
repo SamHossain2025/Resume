@@ -51,7 +51,7 @@ May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
 
 ### AI-Powered Job Search Engine → [View Project on Kaggle](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine) | [on Github](https://github.com/SamHossain2025/Job-Search-Engine)
 - Built a real-time job search engine using Gemini API to semantically match candidate profiles with LinkedIn job listings. 
-- Designed to bring efficiency in job discovery for graduates and professionals. [See my LinkedIn Blog on it](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/)
+- Designed to bring efficiency in job discovery for graduates and professionals. [See my LinkedIn Blog on it.](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/)
 
 ### Global Supply Chain Inflation Analysis → [View Project](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)
 - Analyzed 300+ World Bank indicators to study global supply chain inflation’s impact on consumer inflation.
