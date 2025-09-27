@@ -11,20 +11,23 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 ## 🎓 Education  
 **Master of Management Analytics (MMA)**  
 *Smith School of Business, Queen’s University*  
-*May 2024 – Apr 2025*  
+*May 2024 – May 2025*  
 - GPA: 3.91 (Top 10%)  
 - Certificate in Social Impact  
 
-**BBA in Finance** 
+**BBA in Finance**  
 *University of Dhaka, Bangladesh*  
-2011 – 2015 
+*2011 – 2015*  
 - Entrance Scholarship & Merit List
 
 ---
 
 ## 🧠 Certifications & Training  
-- **CFA® Level 1** – Jun 2018
-- **Google × Kaggle GenAI 5-Day Intensive Generative AI Course** – Apr 2025
+**Google × Kaggle 5-Day Intensive Generative AI Course**  
+*Apr 2025*  
+
+**CFA® Level 1 Completed**  
+*Jun 2018*  
 
 ---
 
