@@ -70,28 +70,28 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 
 ## 💼 Experience  
 
-**Teaching Assistant (Generative AI Course) – Smith School of Business, Queen's University**  
-*Toronto, ON*  
+**Teaching Assistant (Generative AI Course)**  
+*Smith School of Business, Queen's University, Toronto, ON*  
 *Sep 2025 - Present*  
 - Assisting Prof. Murray Lei in delivering "MMM 865 - Generative AI in Business" course through student support, and grading to enhance hands‑on analytics learning outcomes.
 
-**Data Scientist – Queen's University Alternative Assets Fund (QUAAF)**  
-*Toronto, ON*  
+**Data Scientist**  
+*Queen's University Alternative Assets Fund (QUAAF), Toronto, ON*  
 *May 2024 – Aug 2025*  
 - Built stock-ranking models (RollingOLS, PCA, Random Forest) to optimize a $500K portfolio of S&P500 stocks.  
 
-**Data Consultant – PEC Fresh Good Food Market**  
-*Picton, ON*  
+**Data Consultant**  
+*PEC Fresh Good Food Market, Picton, ON*  
 *Jan 2025 – Jul 2025*  
 - Created multi-year financial dashboards and regression models to identify branch-level losses and optimize operations.
 
-**Business Analyst (Credit) – Multiple Organizations**  
-*Toronto, ON*  
+**Business Analyst (Credit)**  
+*Multiple Organizations in Toronto, ON*  
 *2019 – 2024*  
-- Delivered analytics tools (Python, Power BI, SQL) for predictive dashboards and dynamic pricing models in various Toronto-based Small & Medium Businesses like Simply Group, FreshBuy, SinglePoint etc.
+- Delivered analytics tools (Python, Power BI, SQL) for predictive dashboards and dynamic pricing models in various Toronto-based Small & Medium Businesses like **Simply Group, FreshBuy, SinglePoint etc.**
 
-**Financial Analyst (Credit & Structured Finance) - Bangladesh Infrastructure Finance Fund Ltd. (BIFFL)**  
-*Dhaka, Bangladesh*  
+**Financial Analyst (Credit & Structured Finance)**  
+*Bangladesh Infrastructure Finance Fund Ltd. (BIFFL), Dhaka, Bangladesh*  
 *2015 – 2019*  
 - Secured $95M in ESG project funding; raised $121M from global DFIs; automated modeling processes.
 
