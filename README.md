@@ -46,11 +46,11 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 - Built a real-time job search engine using Gemini API, vector embeddings, RAG, and prompt engineering to semantically match candidate profiles with LinkedIn job listings. 
 - Designed to improve efficiency in job discovery for graduates and professionals. [See my LinkedIn Blog on it.](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/)
 
-**Global Supply Chain Inflation Analysis → [View Project](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)**
+**Global Supply Chain & Consumer Inflation Inflation Analysis → [View Project](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)**
 - Analyzed 300+ World Bank indicators to study global supply chain inflation’s impact on consumer inflation.
 - 🥇 Rotman Datathon 2025 Champion – 1st out of 187 teams (600+ participants).
 
-**PEC Fresh Financial Sustainability Model → [View Project](https://github.com/SamHossain2025/Food-Social-Enterprise-Financial-Analysis)**
+**PEC Fresh Financial Sustainability Analysis → [View Project](https://github.com/SamHossain2025/Food-Social-Enterprise-Financial-Analysis)**
 - Built a multi-year financial dashboard using regression models to help a local social enterprise identify loss-driving branches and restructure its operations. Helped it reduce annual loss by $30K.
 - Built for a [community food access](https://pelc.ca/food-market/) program in Picton, Ontario. 
 
