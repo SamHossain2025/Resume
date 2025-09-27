@@ -104,7 +104,7 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 🎖️ Council on Business & Society (CoBS) International Article Writing 2025  
 3rd Place  
 
-🎖️ Fintech Innovation 2025  
+🎖️ Fintech Cadence Innovation Challenge 2025  
 Semi-Finalist  
 
 ---
