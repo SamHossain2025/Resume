@@ -52,11 +52,11 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 
 **PEC Fresh Financial Sustainability Analysis → [View Project](https://github.com/SamHossain2025/Food-Social-Enterprise-Financial-Analysis)**
 - Built a multi-year financial dashboard using regression models to help a local social enterprise identify loss-driving branches and restructure its operations. Helped it reduce annual loss by $30K.
-- Built for a [community food access](https://pelc.ca/food-market/) program in Picton, Ontario. 
+- Built for a [_community food access_](https://pelc.ca/food-market/) program in Picton, Ontario. 
 
 **Credit Risk Model for Fintech → [View Project](https://github.com/SamHossain2025/Credit-Score-Risk-Model)**
 - Built a credit risk model using real time app engagement, credit payments, and behavioral data to predict defaults and financial wellness.
-- Built for a Toronto-based [Fintech company](myparachute.co) - Scotiabank Center for Analytics project.
+- Built for a Toronto-based [_Fintech company_](myparachute.co) - Scotiabank Center for Analytics project.
 
 **Investment Portfolio Optimization → [View Project](https://github.com/SamHossain2025/Investment-Portfolio-Optimization)**
 - Developed a multi-model stock ranking system using RollingOLS, PCA, and Random Forest on S&P500 fundamentals.
