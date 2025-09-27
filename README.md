@@ -4,16 +4,20 @@ Toronto, ON | hossain.sam@queensu.ca | [GitHub](https://github.com/SamHossain202
 ---
 
 ## 🌟 Summary  
-Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate from Queen’s University. 4+ years of data analysis experience across Canadian SMBs, backed by strong finance experience in credit & investments. I build predictive models, dashboards, and GenAI-powered tools to solve business problems.
+Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate from Queen’s University. 4+ years of data analysis experience across Canadian SMBs, backed by strong finance expertise in credit & investments. I build predictive models, dashboards, and GenAI-powered tools to solve business problems.
 
 ---
 
 ## 🎓 Education  
-**Master of Management Analytics (MMA)**, *Smith School of Business, Queen’s University*  
-May 2024 – Apr 2025 • GPA: 3.91 (Top 10%)
+**Master of Management Analytics (MMA)** 
+*Smith School of Business, Queen’s University*  
+May 2024 – Apr 2025 
+- GPA: 3.91 (Top 10%)
 
-**BBA in Finance**, *University of Dhaka*  
-2011 – 2015 • Entrance Scholarship & Merit List
+**BBA in Finance** 
+*University of Dhaka, Bangladesh*  
+2011 – 2015 
+- Entrance Scholarship & Merit List
 
 ---
 
