@@ -73,7 +73,7 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 **Teaching Assistant (Generative AI Course)**  
 *Smith School of Business, Queen's University, Toronto, ON*  
 *Sep 2025 - Present*  
-- Assisting Prof. Murray Lei in delivering "MMM 865 - Generative AI in Business" course through student support, and grading to enhance hands‑on analytics learning outcomes.
+- Assisting Prof. Murray Lei in delivering "MMA 865 - Generative AI in Business" course through student support, and grading to enhance hands‑on analytics learning outcomes.
 
 **Data Scientist**  
 *Queen's University Alternative Assets Fund (QUAAF), Toronto, ON*  
