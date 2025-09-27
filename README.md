@@ -42,7 +42,7 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 
 ## 🚀 Projects
 
-### AI-Powered Job Search Engine → *[View Project on Kaggle](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine) | [on Github](https://github.com/SamHossain2025/Job-Search-Engine)*
+### AI-Powered Job Search Engine   *[View Project on Kaggle](https://www.kaggle.com/code/hossainsam/ai-powered-data-scientist-job-search-engine) | [on Github](https://github.com/SamHossain2025/Job-Search-Engine)*
 - Built a real-time job search engine using Gemini API to semantically match candidate profiles with LinkedIn job listings. 
 - Designed to bring efficiency in job discovery for graduates and professionals. [See my LinkedIn Blog on it.](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/)
 
