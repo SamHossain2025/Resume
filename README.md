@@ -86,7 +86,7 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 - Created multi-year financial dashboards and regression models to identify branch-level losses and optimize operations.
 
 **Business Analyst (Credit)**  
-*Multiple Organizations in Toronto, ON*  
+*Multiple organizations in Toronto, ON*  
 *2019 – 2024*  
 - Delivered analytics tools (Python, Power BI, SQL) for predictive dashboards and dynamic pricing models in various Toronto-based Small & Medium Businesses like **Simply Group, FreshBuy, SinglePoint etc.**
 
