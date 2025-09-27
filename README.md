@@ -56,7 +56,7 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 
 **Credit Risk Model for Fintech → [View Project](https://github.com/SamHossain2025/Credit-Score-Risk-Model)**
 - Built a credit risk model using real time app engagement, credit payments, and behavioral data to predict defaults and financial wellness.
-- Built for a [Toronto-based Fintech company](myparachute.co) - Scotiabank Center for Analytics project.
+- Built for a Toronto-based [Fintech company](myparachute.co) - Scotiabank Center for Analytics project.
 
 **Investment Portfolio Optimization → [View Project](https://github.com/SamHossain2025/Investment-Portfolio-Optimization)**
 - Developed a multi-model stock ranking system using RollingOLS, PCA, and Random Forest on S&P500 fundamentals.
