@@ -99,13 +99,13 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 ## 🏆 Awards  
 
 🥇 **University of Toronto Rotman Datathon 2025 Champion**  
-– 1st place out of 187 teams  
+- 1st place out of 187 teams  
 
 🎖️ Council on Business & Society (CoBS) International Article Writing 2025  
-– 3rd Place  
+- 3rd Place  
 
 🎖️ Fintech Innovation 2025  
-– Semi-Finalist  
+- Semi-Finalist  
 
 ---
 
