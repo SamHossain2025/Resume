@@ -64,7 +64,7 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 
 **Film ROI Analysis → [View Project](https://github.com/SamHossain2025/Film-ROI-Analysis)**
 - Analyzed film budget, genre, and runtime data to build a regression model predicting financial returns.
-- Built an ROI prediction model for a Toronto-based Film compan](https://level.film/) – MMA Capstone Project.
+- Built an ROI prediction model for a Toronto-based [_Film company_](https://level.film/) – MMA Capstone Project.
 
 ---
 
