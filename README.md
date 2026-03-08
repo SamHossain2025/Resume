@@ -46,7 +46,7 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 - Built a real-time job search engine using Gemini API, vector embeddings, RAG, and prompt engineering to semantically match candidate profiles with LinkedIn job listings. 
 - Designed to improve efficiency in job discovery for graduates and professionals. [See my LinkedIn Blog on it.](https://www.linkedin.com/pulse/turning-learning-action-my-genai-capstone-project-job-hossain-mma-r3x2c/)
 
-**Global Supply Chain & Consumer Inflation Inflation Analysis → [View Project](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)**
+**Global Supply Chain & Consumer Inflation Analysis → [View Project](https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis)**
 - Analyzed 300+ World Bank indicators to study global supply chain inflation’s impact on consumer inflation.
 - 🥇 Rotman Datathon 2025 Champion – 1st out of 187 teams (600+ participants).
 
@@ -70,7 +70,7 @@ Data Scientist with AI/ML × Finance background and MMA Spring ’25 Graduate fr
 
 ## 💼 Experience  
 
-**Teaching Assistant (Generative AI Course)**  
+**Graduate Teaching Assistant (Generative AI Course)**  
 *Smith School of Business, Queen's University, Toronto, ON*  
 *Sep 2025 - Present*  
 - Assisting Prof. Murray Lei in delivering "MMA 865 - Generative AI in Business" course through enhanced student support in tutorials, contents and grading.
